@@ -1,6 +1,8 @@
 # 🧠 Vendor Purchase & Inventory Analysis Project
 
 This project showcases a full data analysis pipeline using **Python**, **SQL**, and **Power BI** to explore and visualize vendor purchases, inventory flow, and stock turnover performance.
+**Raw Material CSV Folder**  
+[🔗 Click here to access on Google Drive](https://drive.google.com/drive/folders/1Ik1SIaIDorRwSZg8-yY3XgIwuwk1sxBz?usp=sharing)
 ## 🛠️ Tools & Technologies
 
 - Python (Pandas, NumPy, Seaborn)
