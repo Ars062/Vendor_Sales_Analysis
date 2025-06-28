@@ -8,6 +8,9 @@ This project showcases a full data analysis pipeline using **Python**, **SQL**, 
 - Power BI
 - Jupyter Notebook
 - Git & GitHub
+  ## 📷 Dashboard Preview
+
+![Sales Insight Dashboard](./vendor_sales_performance.png)
 
 ## 🔄 Workflow Overview
 
